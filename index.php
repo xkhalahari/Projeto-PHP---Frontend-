@@ -16,9 +16,9 @@ session_start();
       theme: {
         extend: {
           colors: {
-            sage: '#B2C2B2',
-            cream: '#FAF9F6',
-            sand: '#E9E4D9',
+            sage: '#9e1560',
+            cream: '#faf6f8',
+            sand: '#e9d9e3',
             terracotta: '#50361dff'
           }
         }

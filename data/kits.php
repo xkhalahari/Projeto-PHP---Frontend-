@@ -3,9 +3,9 @@
 $kits = [
   [
     "id" => 1,
-    "nome" => "Kit Chá Revelação",
+    "nome" => "Kit Festa Moana",
     "preco" => 890,
-    "imagem" => "assets/img/kit1.jpg",
+    "imagem" => "assets\img\img1.jpeg",
     "descricao" => "Decoração delicada para chá revelação, com balões, painel e mesa decorada.",
     "itens" => [
       "Painel personalizado",
@@ -14,16 +14,16 @@ $kits = [
       "Tapete"
     ],
     "extras" => [
-      ["nome" => "Letreiro Neon", "preco" => 120],
-      ["nome" => "Arranjo floral premium", "preco" => 150],
-      ["nome" => "Topo de bolo personalizado", "preco" => 45]
+      ["nome" => "Letreiro Neon", "preço" => 120],
+      ["nome" => "Arranjo floral premium", "preço" => 150],
+      ["nome" => "Topo de bolo personalizado", "preço" => 45]
     ]
   ],
   [
     "id" => 2,
-    "nome" => "Kit Festa Infantil Luxo",
+    "nome" => "Kit Festa Flash",
     "preco" => 1250,
-    "imagem" => "assets/img/kit2.jpg",
+    "imagem" => "assets\img\img2.jpeg",
     "descricao" => "Decoração completa para festas infantis com tema personalizado e composição premium.",
     "itens" => [
       "Painel temático",
@@ -32,16 +32,16 @@ $kits = [
       "Suportes decorativos"
     ],
     "extras" => [
-      ["nome" => "Personagem 3D", "preco" => 180],
-      ["nome" => "Mesa de doces extra", "preco" => 220],
-      ["nome" => "Kit lembrancinhas (20un)", "preco" => 160]
+      ["nome" => "Personagem 3D", "preço" => 180],
+      ["nome" => "Mesa de doces extra", "preço" => 220],
+      ["nome" => "Kit lembrancinhas (20un)", "preço" => 160]
     ]
   ],
   [
     "id" => 3,
-    "nome" => "Kit Aniversário Adulto",
+    "nome" => "Kit Festa Branca de Neve",
     "preco" => 980,
-    "imagem" => "assets/img/kit3.jpg",
+    "imagem" => "assets\img\img3.jpeg",
     "descricao" => "Decoração elegante para aniversários adultos e eventos intimistas.",
     "itens" => [
       "Painel minimalista",
@@ -49,9 +49,9 @@ $kits = [
       "Mesa clean"
     ],
     "extras" => [
-      ["nome" => "Velas e iluminação ambiente", "preco" => 90],
-      ["nome" => "Arranjos premium (combo)", "preco" => 180],
-      ["nome" => "Placa personalizada", "preco" => 70]
+      ["nome" => "Velas e iluminação ambiente", "preço" => 90],
+      ["nome" => "Arranjos premium (combo)", "preço" => 180],
+      ["nome" => "Placa personalizada", "preço" => 70]
     ]
   ]
 ];
